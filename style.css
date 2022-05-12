@@ -1,0 +1,30 @@
+html{
+    background-color: #6c7c93;
+    
+}
+h2{
+    color: 	#ff6666;
+}
+h1{
+    color: #ff0000;
+}
+p,label{
+    color: #66ffff;
+    font-size: 16px;
+}
+ul{
+    color: #FFD700;
+}
+hr{
+    border-style: dashed groove hidden;
+    border-width: 5px;
+    width: 10%;
+    text-align: left;
+}
+a{
+    color: blue;
+}
+div{
+    border-radius:5px;
+    padding:30px;
+}
